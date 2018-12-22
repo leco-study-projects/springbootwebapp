@@ -62,7 +62,22 @@
 			<scope>test</scope>
 		</dependency>
 
-	</dependencies>
+
+		<!--&lt;!&ndash; https://mvnrepository.com/artifact/mysql/mysql-connector-java &ndash;&gt;-->
+		<!--<dependency>-->
+			<!--<groupId>mysql</groupId>-->
+			<!--<artifactId>mysql-connector-java</artifactId>-->
+			<!--<version>5.1.6</version>-->
+		<!--</dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <!--<dependency>-->
+            <!--<groupId>mysql</groupId>-->
+            <!--<artifactId>mysql-connector-java</artifactId>-->
+            <!--<version>8.0.13</version>-->
+        <!--</dependency>-->
+
+    </dependencies>
 	
 	<build>
 		<plugins>
